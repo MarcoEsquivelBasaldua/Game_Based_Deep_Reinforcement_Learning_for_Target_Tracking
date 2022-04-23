@@ -1,6 +1,6 @@
 # Environment Discretization and Deterministic Motion Policies with Discrete Optimal Planning
 
-1. Choose the environment <env> and resolution <res>.
+1. Choose the environment \<env> and resolution <res>.
 2. Take the Env<env>_res<res>.txt file in Environments folder.
 3. Get visibility matrix by running 
 	- compute_visibility.py Env<env>_res<res>.txt
