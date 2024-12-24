@@ -10,7 +10,7 @@ On the DRL part, we have a total of three more policies. On **RMP** (for Reinfor
 
 We test our policies on several environments where both players are considered as point robots whose movement stays in a four-connectivity neighborhood with a fixed step. The pursuer has an unbounded field of view only blocked by obstacles. In the video below we compare every of the policies on a given environment. We evaluate every game on the amount of steps the evader (in red) needs to step out the pursuer's (in blue) field of view (in green). Note how at the end the pursuer is able to keep the evader always inside its field of view by using the MRMP policy.
 
-<video src="./Images/videoExample.mp4" width="320" height="240" controls></video>
+![Video example](./Images/videoExample.mp4)
 
 The codes used for this project can be found in the attached folders. They are organized as follows:
 
